@@ -9,7 +9,7 @@ h1{
     font-size: 50px;
 }
 h2{
-    font-size: 40px;
+    font-size: 35px;
     color: navy;
 }
 .name-highlight{
@@ -20,7 +20,7 @@ h2{
     background-image: linear-gradient(45deg, orange, orangered);
     color: white;
     padding: 10px 20px;
-    font-weight: 700;
+    font-weight: 200;
     border-radius: 5px;
     text-decoration: none;
     
@@ -37,4 +37,71 @@ h2{
 section{
     height: 500px;
     
+}
+.text-allign{
+    text-align: center;
+}
+.third-width{
+    width: 30%;
+    float: left;
+    
+}
+.third-width img{
+    width: 85%;
+}
+h3{
+    color: navy;
+}
+#left-shift{
+    padding-left: 90px;
+   
+}
+#third-part{
+    background-color: whitesmoke;
+    height: 600px;
+}
+.gittu{
+    font-size: 15px;
+    
+}
+.gittu1{
+    font-size: 40px;
+    color: white;
+}
+.test{
+    width: 60%;
+    height: 200px;
+    margin: 250px;
+    padding: 20px;
+    background-size: contain;
+    background-image: url(images/Group_33094_1.png);
+    background-repeat: no-repeat;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+}
+.four-part{
+    padding-left: 70px;
+}
+.last1{
+    text-align: center;
+    
+}
+.logo{
+    width: 6%;
+    float: left;
+   
+}
+.logo img{
+    width: 30px;
+    
+}
+#logo-left{
+    padding-left: 330px;
+}
+.last1 h2{
+    color: black;
+}
+.last1 h3{
+    color: black;
 }
